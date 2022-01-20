@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.4.0.SKICNXM/miui_RENOIR_V13.0.4.0.SKICNXM_40f0bd0d21_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/22.1.18/miui_RENOIRPRE_22.1.18_17d5a935fb_12.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
